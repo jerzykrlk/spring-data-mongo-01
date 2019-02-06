@@ -1,0 +1,17 @@
+[
+  {
+    "id": "my-cupboard",
+    "_class": "com.example.demo.Cupboard",
+    "name": "my cupboard",
+    "cups": [
+      {
+        "id": "my-cup-1",
+        "name": "My first cup"
+      },
+      {
+        "id": "my-cup-2",
+        "name": "My second cup"
+      }
+    ]
+  }
+]
